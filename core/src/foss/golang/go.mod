@@ -15,6 +15,7 @@ require (
 	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/coreos/go-iptables v0.8.0 // indirect
 	github.com/dlclark/regexp2 v1.11.5 // indirect
+	github.com/dmitryikh/leaves v0.0.0-20230708180554-25d19a787328 // indirect
 	github.com/ebitengine/purego v0.8.3 // indirect
 	github.com/enfein/mieru/v3 v3.13.0 // indirect
 	github.com/ericlagergren/aegis v0.0.0-20250325060835-cd0defd64358 // indirect
